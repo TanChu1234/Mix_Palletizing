@@ -1,0 +1,216 @@
+F:\Mix Palletizing\New form\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\Mix Palletizing\New form\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\Mix Palletizing\New form\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\Mix Palletizing\New form\WindowsFormsApp1\bin\Debug\ABB.Robotics.Controllers.PC.dll
+F:\Mix Palletizing\New form\WindowsFormsApp1\bin\Debug\IKVM.Reflection.dll
+F:\Mix Palletizing\New form\WindowsFormsApp1\bin\Debug\IronPython.dll
+F:\Mix Palletizing\New form\WindowsFormsApp1\bin\Debug\IronPython.Modules.dll
+F:\Mix Palletizing\New form\WindowsFormsApp1\bin\Debug\Microsoft.Dynamic.dll
+F:\Mix Palletizing\New form\WindowsFormsApp1\bin\Debug\Microsoft.Scripting.dll
+F:\Mix Palletizing\New form\WindowsFormsApp1\bin\Debug\RobotStudio.Services.RobApi.Desktop.dll
+F:\Mix Palletizing\New form\WindowsFormsApp1\bin\Debug\RobotStudio.Services.RobApi.dll
+F:\Mix Palletizing\New form\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+F:\Mix Palletizing\New form\WindowsFormsApp1\bin\Debug\System.Memory.dll
+F:\Mix Palletizing\New form\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Mix Palletizing\New form\WindowsFormsApp1\bin\Debug\ABB.Robotics.Controllers.PC.xml
+F:\Mix Palletizing\New form\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+F:\Mix Palletizing\New form\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+F:\Mix Palletizing\New form\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+F:\Mix Palletizing\New form\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ConnectionForm.resources
+F:\Mix Palletizing\New form\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormData.resources
+F:\Mix Palletizing\New form\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormMain.resources
+F:\Mix Palletizing\New form\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\Mix Palletizing\New form\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\Mix Palletizing\New form\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\Mix Palletizing\New form\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+F:\Mix Palletizing\New form\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\Mix Palletizing\New form\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\Mix Palletizing\New form\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Palletizing.resources
+D:\Desktop\New form\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Desktop\New form\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Desktop\New form\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Desktop\New form\WindowsFormsApp1\bin\Debug\ABB.Robotics.Controllers.PC.dll
+D:\Desktop\New form\WindowsFormsApp1\bin\Debug\RobotStudio.Services.RobApi.Desktop.dll
+D:\Desktop\New form\WindowsFormsApp1\bin\Debug\RobotStudio.Services.RobApi.dll
+D:\Desktop\New form\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\Desktop\New form\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\Desktop\New form\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Desktop\New form\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\Desktop\New form\WindowsFormsApp1\bin\Debug\ABB.Robotics.Controllers.PC.xml
+D:\Desktop\New form\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Desktop\New form\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\New form\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+D:\Desktop\New form\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ConnectionForm.resources
+D:\Desktop\New form\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Palletizing.resources
+D:\Desktop\New form\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormData.resources
+D:\Desktop\New form\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormMain.resources
+D:\Desktop\New form\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Desktop\New form\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Desktop\New form\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Desktop\New form\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Desktop\New form\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Desktop\New form\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\Mix Palletizing\Mix-Palletizing\Newform\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\Mix Palletizing\Mix-Palletizing\Newform\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\Mix Palletizing\Mix-Palletizing\Newform\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\Mix Palletizing\Mix-Palletizing\Newform\WindowsFormsApp1\bin\Debug\ABB.Robotics.Controllers.PC.dll
+F:\Mix Palletizing\Mix-Palletizing\Newform\WindowsFormsApp1\bin\Debug\IKVM.Reflection.dll
+F:\Mix Palletizing\Mix-Palletizing\Newform\WindowsFormsApp1\bin\Debug\IronPython.dll
+F:\Mix Palletizing\Mix-Palletizing\Newform\WindowsFormsApp1\bin\Debug\IronPython.Modules.dll
+F:\Mix Palletizing\Mix-Palletizing\Newform\WindowsFormsApp1\bin\Debug\Microsoft.Dynamic.dll
+F:\Mix Palletizing\Mix-Palletizing\Newform\WindowsFormsApp1\bin\Debug\Microsoft.Scripting.dll
+F:\Mix Palletizing\Mix-Palletizing\Newform\WindowsFormsApp1\bin\Debug\RobotStudio.Services.RobApi.Desktop.dll
+F:\Mix Palletizing\Mix-Palletizing\Newform\WindowsFormsApp1\bin\Debug\RobotStudio.Services.RobApi.dll
+F:\Mix Palletizing\Mix-Palletizing\Newform\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+F:\Mix Palletizing\Mix-Palletizing\Newform\WindowsFormsApp1\bin\Debug\System.Memory.dll
+F:\Mix Palletizing\Mix-Palletizing\Newform\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Mix Palletizing\Mix-Palletizing\Newform\WindowsFormsApp1\bin\Debug\ABB.Robotics.Controllers.PC.xml
+F:\Mix Palletizing\Mix-Palletizing\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+F:\Mix Palletizing\Mix-Palletizing\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+F:\Mix Palletizing\Mix-Palletizing\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+F:\Mix Palletizing\Mix-Palletizing\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ConnectionForm.resources
+F:\Mix Palletizing\Mix-Palletizing\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Palletizing.resources
+F:\Mix Palletizing\Mix-Palletizing\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormData.resources
+F:\Mix Palletizing\Mix-Palletizing\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormMain.resources
+F:\Mix Palletizing\Mix-Palletizing\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\Mix Palletizing\Mix-Palletizing\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\Mix Palletizing\Mix-Palletizing\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\Mix Palletizing\Mix-Palletizing\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+F:\Mix Palletizing\Mix-Palletizing\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\Mix Palletizing\Mix-Palletizing\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Newform\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Newform\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Newform\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Newform\WindowsFormsApp1\bin\Debug\ABB.Robotics.Controllers.PC.dll
+D:\Newform\WindowsFormsApp1\bin\Debug\IKVM.Reflection.dll
+D:\Newform\WindowsFormsApp1\bin\Debug\IronPython.dll
+D:\Newform\WindowsFormsApp1\bin\Debug\IronPython.Modules.dll
+D:\Newform\WindowsFormsApp1\bin\Debug\Microsoft.Dynamic.dll
+D:\Newform\WindowsFormsApp1\bin\Debug\Microsoft.Scripting.dll
+D:\Newform\WindowsFormsApp1\bin\Debug\RobotStudio.Services.RobApi.Desktop.dll
+D:\Newform\WindowsFormsApp1\bin\Debug\RobotStudio.Services.RobApi.dll
+D:\Newform\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\Newform\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\Newform\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Newform\WindowsFormsApp1\bin\Debug\ABB.Robotics.Controllers.PC.xml
+D:\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+D:\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ConnectionForm.resources
+D:\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Palletizing.resources
+D:\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormData.resources
+D:\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormMain.resources
+D:\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Desktop\Newform\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Desktop\Newform\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Desktop\Newform\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Desktop\Newform\WindowsFormsApp1\bin\Debug\ABB.Robotics.Controllers.PC.dll
+D:\Desktop\Newform\WindowsFormsApp1\bin\Debug\RobotStudio.Services.RobApi.Desktop.dll
+D:\Desktop\Newform\WindowsFormsApp1\bin\Debug\RobotStudio.Services.RobApi.dll
+D:\Desktop\Newform\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\Desktop\Newform\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\Desktop\Newform\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Desktop\Newform\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\Desktop\Newform\WindowsFormsApp1\bin\Debug\ABB.Robotics.Controllers.PC.xml
+D:\Desktop\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Desktop\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+D:\Desktop\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ConnectionForm.resources
+D:\Desktop\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Palletizing.resources
+D:\Desktop\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormData.resources
+D:\Desktop\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormMain.resources
+D:\Desktop\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Desktop\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Desktop\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Desktop\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Desktop\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Desktop\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\ABB Docs\Newform\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\ABB Docs\Newform\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\ABB Docs\Newform\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\ABB Docs\Newform\WindowsFormsApp1\bin\Debug\ABB.Robotics.Controllers.PC.dll
+D:\ABB Docs\Newform\WindowsFormsApp1\bin\Debug\IKVM.Reflection.dll
+D:\ABB Docs\Newform\WindowsFormsApp1\bin\Debug\IronPython.dll
+D:\ABB Docs\Newform\WindowsFormsApp1\bin\Debug\IronPython.Modules.dll
+D:\ABB Docs\Newform\WindowsFormsApp1\bin\Debug\Microsoft.Dynamic.dll
+D:\ABB Docs\Newform\WindowsFormsApp1\bin\Debug\Microsoft.Scripting.dll
+D:\ABB Docs\Newform\WindowsFormsApp1\bin\Debug\RobotStudio.Services.RobApi.Desktop.dll
+D:\ABB Docs\Newform\WindowsFormsApp1\bin\Debug\RobotStudio.Services.RobApi.dll
+D:\ABB Docs\Newform\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\ABB Docs\Newform\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\ABB Docs\Newform\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ABB Docs\Newform\WindowsFormsApp1\bin\Debug\ABB.Robotics.Controllers.PC.xml
+D:\ABB Docs\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\ABB Docs\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\ABB Docs\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+D:\ABB Docs\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ConnectionForm.resources
+D:\ABB Docs\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Palletizing.resources
+D:\ABB Docs\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormData.resources
+D:\ABB Docs\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormMain.resources
+D:\ABB Docs\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\ABB Docs\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\ABB Docs\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\ABB Docs\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\ABB Docs\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\ABB Docs\Newform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\Mix Palletizing\Mix-Palletizing\RealRobot\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\Mix Palletizing\Mix-Palletizing\RealRobot\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\Mix Palletizing\Mix-Palletizing\RealRobot\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\Mix Palletizing\Mix-Palletizing\RealRobot\WindowsFormsApp1\bin\Debug\ABB.Robotics.Controllers.PC.dll
+F:\Mix Palletizing\Mix-Palletizing\RealRobot\WindowsFormsApp1\bin\Debug\IKVM.Reflection.dll
+F:\Mix Palletizing\Mix-Palletizing\RealRobot\WindowsFormsApp1\bin\Debug\IronPython.dll
+F:\Mix Palletizing\Mix-Palletizing\RealRobot\WindowsFormsApp1\bin\Debug\IronPython.Modules.dll
+F:\Mix Palletizing\Mix-Palletizing\RealRobot\WindowsFormsApp1\bin\Debug\Microsoft.Dynamic.dll
+F:\Mix Palletizing\Mix-Palletizing\RealRobot\WindowsFormsApp1\bin\Debug\Microsoft.Scripting.dll
+F:\Mix Palletizing\Mix-Palletizing\RealRobot\WindowsFormsApp1\bin\Debug\RobotStudio.Services.RobApi.Desktop.dll
+F:\Mix Palletizing\Mix-Palletizing\RealRobot\WindowsFormsApp1\bin\Debug\RobotStudio.Services.RobApi.dll
+F:\Mix Palletizing\Mix-Palletizing\RealRobot\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+F:\Mix Palletizing\Mix-Palletizing\RealRobot\WindowsFormsApp1\bin\Debug\System.Memory.dll
+F:\Mix Palletizing\Mix-Palletizing\RealRobot\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Mix Palletizing\Mix-Palletizing\RealRobot\WindowsFormsApp1\bin\Debug\ABB.Robotics.Controllers.PC.xml
+F:\Mix Palletizing\Mix-Palletizing\RealRobot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+F:\Mix Palletizing\Mix-Palletizing\RealRobot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+F:\Mix Palletizing\Mix-Palletizing\RealRobot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+F:\Mix Palletizing\Mix-Palletizing\RealRobot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ConnectionForm.resources
+F:\Mix Palletizing\Mix-Palletizing\RealRobot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Palletizing.resources
+F:\Mix Palletizing\Mix-Palletizing\RealRobot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormData.resources
+F:\Mix Palletizing\Mix-Palletizing\RealRobot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormMain.resources
+F:\Mix Palletizing\Mix-Palletizing\RealRobot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\Mix Palletizing\Mix-Palletizing\RealRobot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\Mix Palletizing\Mix-Palletizing\RealRobot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\Mix Palletizing\Mix-Palletizing\RealRobot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+F:\Mix Palletizing\Mix-Palletizing\RealRobot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\Mix Palletizing\Mix-Palletizing\RealRobot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\ABB Docs\RealRobot\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\ABB Docs\RealRobot\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\ABB Docs\RealRobot\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\ABB Docs\RealRobot\WindowsFormsApp1\bin\Debug\ABB.Robotics.Controllers.PC.dll
+D:\ABB Docs\RealRobot\WindowsFormsApp1\bin\Debug\IKVM.Reflection.dll
+D:\ABB Docs\RealRobot\WindowsFormsApp1\bin\Debug\IronPython.dll
+D:\ABB Docs\RealRobot\WindowsFormsApp1\bin\Debug\IronPython.Modules.dll
+D:\ABB Docs\RealRobot\WindowsFormsApp1\bin\Debug\Microsoft.Dynamic.dll
+D:\ABB Docs\RealRobot\WindowsFormsApp1\bin\Debug\Microsoft.Scripting.dll
+D:\ABB Docs\RealRobot\WindowsFormsApp1\bin\Debug\RobotStudio.Services.RobApi.Desktop.dll
+D:\ABB Docs\RealRobot\WindowsFormsApp1\bin\Debug\RobotStudio.Services.RobApi.dll
+D:\ABB Docs\RealRobot\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\ABB Docs\RealRobot\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\ABB Docs\RealRobot\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ABB Docs\RealRobot\WindowsFormsApp1\bin\Debug\ABB.Robotics.Controllers.PC.xml
+D:\ABB Docs\RealRobot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\ABB Docs\RealRobot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\ABB Docs\RealRobot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+D:\ABB Docs\RealRobot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ConnectionForm.resources
+D:\ABB Docs\RealRobot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Palletizing.resources
+D:\ABB Docs\RealRobot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormData.resources
+D:\ABB Docs\RealRobot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormMain.resources
+D:\ABB Docs\RealRobot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\ABB Docs\RealRobot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\ABB Docs\RealRobot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\ABB Docs\RealRobot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\ABB Docs\RealRobot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\ABB Docs\RealRobot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
